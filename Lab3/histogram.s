@@ -51,7 +51,7 @@ PreencheHistograma
 EightBitHistogram
 ;Guarda em R6 o tamanho da imagen
     MUL R6, R0, R1 
-;Guarda em R9 a posição inicial da imagem
+;Guarda em R9 a posição inicial do vetor
     MOV R9, R3
     
 ;Compara se a imagem é maior do que 64k e se for retorna 0
