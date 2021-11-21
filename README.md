@@ -28,3 +28,6 @@ Lab 5 -
 |    mutex 0    |      mutex_0      |       sizeof(TX_MUTEX)       |     &mutex_0     |
 |  block pool 0 |    block_pool_0   |              100             |      pointer     |
 
+
+
+![Diagrama](./diagrama.png)
